@@ -9,7 +9,7 @@ title: "Research"
 <!-- Add a smaller margin to control spacing -->
 
 <center><b>Isolating the Effects of Pollution Externalities from Natural Resource Extraction on Local Agricultural Output in Africa
-</b>
+</b><center>
 
 
 
@@ -25,15 +25,16 @@ This paper explores the extent to which pollution externalities and market-based
   Working Papers
 </div>
 
+
+
 <center><b>The Economic Potential for Area-Yield Crop Insurance: An Application to Maize in Ghana</b> with Ashish Shenoy</center>
 
 <div style="margin-bottom: 20px;"></div>
 
+
 <center><b>Causal Inference with Predicted Outcomes: A satellite-based impact assessment of ‘Direct Seed Marketing’ in Ethiopia</b> with Johanne Pelletier, Solomon Alemu, Manex Bule Yonis, Travis J. Lybbert and Matthieu Stigler</center>
 
 <div style="margin-bottom: 20px;"></div>
-
-<center><b> Fighting Fire with Fire: Does Clean Air Policy Abate Prescribed Fires?</b> with Jamie Hansen-Lewis</center>
 
 
 
@@ -46,9 +47,11 @@ This paper explores the extent to which pollution externalities and market-based
 
 <div style="margin-bottom: 20px;"></div>
 
+
 <center><b> Time is (Not) Money: The decay of machine learning models using cellphone data to predict wealth levels over time</b> with Oscar Barriga Cabanillas and Travis Lybbert</center>
 
 <div style="margin-bottom: 20px;"></div>
+
 
 <center><b> Unearthing Inequality: The Impact of Mining Operations on Politically Marginalized Communities</b> with Ebad Ebadi</center>
 
