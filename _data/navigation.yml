@@ -3,8 +3,8 @@ main:
     # url: /cv/
     url: /files/Mira_Korb_CV_2024_2025.pdf
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
