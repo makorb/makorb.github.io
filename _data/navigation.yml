@@ -1,27 +1,23 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
 main:
- - title: "CV"
-    url: /cv/
-    
-  - title: "Research"
+  - title: "CV"
+    # url: /cv/
+    url: /files/Mira_Korb_CV_2024_2025.pdf.pdf
+
+  - title: "Portfolio"
+    url: /portfolio/
+  
+  - title: "Publications"
     url: /publications/
-
-  #- title: "Talks"
-   # url: /talks/    
-
-  #- title: "Teaching"
-    #url: /teaching/    
-    
-  #- title: "Portfolio"
-    #url: /portfolio/
+    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
-  #- title: "Blog Posts"
-    #url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  #- title: "Guide"
-    #url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
