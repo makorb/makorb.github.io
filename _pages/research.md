@@ -19,7 +19,7 @@ title: "Research"
 
 This paper explores the extent to which pollution externalities and market-based effects from industrial mining affect local agricultural output in Sub-Saharan Africa. I combine mine geolocations, topographical data and satellite-based measures of pollution, yields and weather, to identify areas around mines that are disproportionately exposed to pollution but not market-specific effects. Leveraging the staggered openings of mines across Sub-Saharan Africa, I find that air and water pollution externalities from mines account for almost 50% of the overall reduction in yields caused by industrial mining. Finally, I use both standard heterogeneity analysis as well as machine learning methods to document that pollution externalities are larger for mines in countries with poor governance and regulatory environments, as well as for mines located in areas with low initial levels of pollution
 
-[Download Here](https://makorb.github.io/files/Korb_JMP_Draft_New_6Oct24.pdf)
+[Download Here](https://makorb.github.io/files/Korb_JMP_Most_Updated.pdf)
 
 
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
