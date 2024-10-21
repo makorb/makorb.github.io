@@ -57,7 +57,7 @@ Recent advances in earth observation and machine learning have opened new fronti
 
 [Link to AEA RCT Registry pre-analysis plan](https://www.socialscienceregistry.org/trials/14166)
 
-<div style="margin-bottom: 20px;"></div>
+<center><div style="margin-bottom: 20px;"></div></center>
 
 
 <center><b> Time is (Not) Money: The decay of machine learning models using cellphone data to predict wealth levels over time</b> with Oscar Barriga Cabanillas and Travis Lybbert</center>
