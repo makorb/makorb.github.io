@@ -55,6 +55,8 @@ Recent advances in earth observation and machine learning have opened new fronti
 
 <center><b>Responsiveness to Environmental Risk in Developing Countries</b> </center>
 
+[Link to AEA RCT Registry pre-analysis plan](https://www.socialscienceregistry.org/trials/14166)
+
 <div style="margin-bottom: 20px;"></div>
 
 
@@ -65,4 +67,6 @@ Recent advances in earth observation and machine learning have opened new fronti
 
 <center><b> Unearthing Inequality: The Impact of Mining Operations on Politically Marginalized Communities</b> with Ebad Ebadi</center>
 
+<div style="margin-bottom: 20px;"></div>
 
+<center><b>Contract Complexity and the Demand for Agricultural Insurance</b> with Ashish Shenoy, Anujit Chakraborty, Jon Einar Flatnes, Richard A. Gallenstein, Sabastain Awondo and Irene Egyir</center>
