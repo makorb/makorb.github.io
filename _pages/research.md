@@ -21,14 +21,11 @@ This paper explores the extent to which pollution externalities and market-based
 
 [Download Here](https://makorb.github.io/files/Korb_JMP_Most_Updated.pdf)
 
-
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
-  Working Papers
+  Publications
 </div>
 
-
-
-<center><b>The Economic Potential for Area-Yield Crop Insurance: An Application to Maize in Ghana</b> with Ashish Shenoy (conditionally accepted at The Journal of Agricultural Economics)</center>
+<center><b>The Economic Potential for Area-Yield Crop Insurance: An Application to Maize in Ghana</b> with Ashish Shenoy (Journal of Agricultural Economics)</center>
 
 <div style="margin-bottom: 20px;"></div>
 
@@ -37,6 +34,10 @@ Rainfall index insurance can enable farm households to manage production risk, b
 [Download Here](https://makorb.github.io/files/Market_Size_v_Basis_Risk___Ghana_Maize.pdf)
 <div style="margin-bottom: 20px;"></div>
 
+
+<div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
+  Working Papers
+</div>
 
 <center><b>Causal Inference with Predicted Outcomes: A satellite-based impact assessment of ‘Direct Seed Marketing’ in Ethiopia</b> with Johanne Pelletier, Solomon Alemu, Manex Bule Yonis, Travis J. Lybbert and Matthieu Stigler (submitted to the Journal of Development Economics)</center>
 
@@ -48,6 +49,27 @@ Recent advances in earth observation and machine learning have opened new fronti
 
 <div style="margin-bottom: 20px;"></div>
 
+<center><b> Time is (Not) Money: The decay of machine learning models using cellphone data to predict wealth levels over time</b> with Oscar Barriga Cabanillas and Travis Lybbert</center>
+
+<div style="margin-bottom: 20px;"></div>
+
+Cellphone data has proven successful in predicting socioeconomic status. However, data limitations have hindered the study of the capacity of these models to predict welfare over time. By relying on a panel sample with information collected two years apart, we test for decay in the ability of an algorithm to predict wealth levels. We find evidence of model decay, with the predictive capacity of a model trained on the first panel wave being 15-30% lower than a model trained on the second wave survey and contemporary cellphone data. We link the lower performance to re-ranking of households across the wealth distribution, changes in the distribution of cellphone features over time and the rise of internet-based communication apps. Finally, we explain how the COVID-19 pandemic serves as a mechanism through which these effects could occur
+
+[Download Here](https://makorb.github.io/files/Model_Decay_CDR_Wealth_Prediction_in_Haiti.pdf)
+
+<div style="margin-bottom: 20px;"></div>
+
+<center><b> Unearthing Inequality: The Impact of Mining Operations on Politically Marginalized Communities</b> with Ebad Ebadi</center>
+
+[Download Here](https://makorb.github.io/files/Mining_and_Political_Exclusion_Draft.pdf.pdf)
+
+<div style="margin-bottom: 20px;"></div>
+
+<center><b> The Cost and Cost-Effectiveness of Vitamin A Supplementation: An Assessment of a Vitamin A Days-Plus Event in Burkina Faso</b> with Steve Vosti, Melissa Baker, Rolf Klemm, Romance Dissieka, David Doledec and Regina Khassanova </center>
+
+[Download Here](https://makorb.github.io/files/Vosti et al Cost-effectiveness of VAS-Plus_Burkina Faso_10 25 24.pdf)
+
+<div style="margin-bottom: 20px;"></div>
 
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
   Works in Progress
@@ -59,14 +81,12 @@ Recent advances in earth observation and machine learning have opened new fronti
 
 <center><div style="margin-bottom: 20px;"></div></center>
 
-
-<center><b> Time is (Not) Money: The decay of machine learning models using cellphone data to predict wealth levels over time</b> with Oscar Barriga Cabanillas and Travis Lybbert</center>
-
-<div style="margin-bottom: 20px;"></div>
-
-
-<center><b> Unearthing Inequality: The Impact of Mining Operations on Politically Marginalized Communities</b> with Ebad Ebadi</center>
-
-<div style="margin-bottom: 20px;"></div>
-
 <center><b>Contract Complexity and the Demand for Agricultural Insurance</b> with Ashish Shenoy, Anujit Chakraborty, Jon Einar Flatnes, Richard A. Gallenstein, Sabastain Awondo and Irene Egyir</center>
+
+[Link to AEA RCT Registry pre-analysis plan](https://www.socialscienceregistry.org/trials/12876)
+
+<center><div style="margin-bottom: 20px;"></div></center>
+
+<center><b>Extraction and Expansion: Mining’s Role in African Infrastructure Development</b>
+
+
