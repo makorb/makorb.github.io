@@ -8,7 +8,7 @@ title: "Research"
 </div>
 <!-- Add a smaller margin to control spacing -->
 
-<center><b>Isolating the Effects of Pollution Externalities from Natural Resource Extraction on Local Agricultural Output in Africa
+<center><b>Digging for Answers: The Effects of Mining Pollution Externalities on Local Agricultural Output in Africa
 </b></center>
 
 
