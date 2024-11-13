@@ -31,7 +31,7 @@ This paper explores the extent to which pollution externalities and market-based
 
 Rainfall index insurance can enable farm households to manage production risk, but demand in developing countries remains low at market prices, in part because the insurance trigger may not correlate well with individual farm losses. Area–yield crop insurance, which links payouts to average yield in a geographic zone, attempts to increase demand by more accurately targeting insurance payouts to production shortfalls. However, shifting from an exogenous weather-based to an endogenous yield-based index introduces concerns of asymmetric information, which can lead to market failures that constrain supply from providers. These features are inversely related: larger insurance zones inhibit index manipulation, but average yield is less informative about any individual plot. We quantify this tradeoff for maize in Ghana using a spatial yield model calibrated to match observed production. Insurers must demarcate zones of no more than 5,000 farmers for area–yield insurance to outperform weather insurance. The framework presented in this paper allows assessment of the relationship between index performance and asymmetric information in new crop insurance products.
 
-[Download Here](https://makorb.github.io/files/Market_Size_v_Basis_Risk___Ghana_Maize.pdf)
+[Download Here](https://makorb.github.io/files/JAE_Shenoy_Korb_2024.pdf)
 <div style="margin-bottom: 20px;"></div>
 
 
